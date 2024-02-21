@@ -27,10 +27,9 @@ https://hwarsame7.github.io/codequiz/
 
 ## screenshots
 
-<img width="1440" alt="Screenshot 2021-10-24 at 01 27 23" src="https://user-images.githubusercontent.com/91003882/138575855-9eba6b86-3a4e-478c-93ee-719f12bbf3b3.png">
+<img width="1440" alt="Screenshot 2024-02-21 at 20 58 48" src="https://github.com/Hwarsame7/codequiz/assets/146027409/e3bbdb8d-7176-4c6d-b448-4a49cabac0f4">
 
-<img width="1440" alt="Screenshot 2021-10-24 at 01 27 43" src="https://user-images.githubusercontent.com/91003882/138575864-adf86b7f-ee9d-4aa9-a271-3109312f5acb.png">
 
-<img width="1440" alt="Screenshot 2021-10-24 at 01 27 56" src="https://user-images.githubusercontent.com/91003882/138575868-4af24d48-7ccd-402f-9d87-d0cfc787f9a0.png">
+<img width="1440" alt="Screenshot 2024-02-21 at 20 59 53" src="https://github.com/Hwarsame7/codequiz/assets/146027409/17c88f36-ae14-4ecd-9f94-16df7cc9b0ef">
 
-<img width="1440" alt="Screenshot 2021-10-24 at 01 28 09" src="https://user-images.githubusercontent.com/91003882/138575874-4946000d-4c67-4571-8320-e766d6fc1f8e.png">
+
