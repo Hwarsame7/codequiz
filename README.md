@@ -21,6 +21,9 @@
 ## link to repository
 https://github.com/Hwarsame7/codequiz/new/main?filename=README.md
 
+Github URl
+https://hwarsame7.github.io/codequiz/
+
 
 ## screenshots
 
